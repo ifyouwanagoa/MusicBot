@@ -1,5 +1,5 @@
 FROM alpine:edge
-
+aa
 # Add project source
 WORKDIR /usr/src/musicbot
 COPY . ./
